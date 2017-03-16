@@ -42,7 +42,9 @@ In the next update, I might update the view to support number decreasing animati
 
 ## Cocoapods实践笔记
 此外最近有些迷恋Cocoapods，最近都在尝试如何把自己的工程中自己工程中的三方库交给CocoaPods来管理。今天也顺道实践下怎么创建CocoaPods。方法可以参考下：
-**[创建CocoaPods的制作过程](http://www.jianshu.com/p/98407f0c175b)**	
+
+**[创建CocoaPods的制作过程](http://www.jianshu.com/p/98407f0c175b)**
+
 **[CocoaPods的安装使用和常见问题](http://www.jianshu.com/p/6e5c0f78200a)**
 
 没有遇到什么特别的问题，除了个别步骤需要翻墙，推荐下[Lantern](https://github.com/getlantern/lantern)，虽然流量有上限，但是从来没超过。创建过程一切顺利，应该成功了，但是暂时在Cocoapods中还搜索不到我的工程。
