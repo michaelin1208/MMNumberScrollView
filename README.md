@@ -1,4 +1,4 @@
-##MMNumberScrollView used to show number scroll animation
+#MMNumberScrollView used to show number scroll animation
 In last project, I develop a number scroll view to show number increasing animations. Now I try to pick it out to share in my GitHub
  **[MMNumberScrollView](https://github.com/michaelin1208/MMNumberScrollView)**	
 
@@ -40,7 +40,7 @@ In the next update, I might update the view to support number decreasing animati
 @end
 ```
 
-##Cocoapods实践笔记
+#Cocoapods实践笔记
 此外最近有些迷恋Cocoapods，最近都在尝试如何把自己的工程中自己工程中的三方库交给CocoaPods来管理。今天也顺道实践下怎么创建CocoaPods。方法可以参考下：
 **[创建CocoaPods的制作过程](http://www.jianshu.com/p/98407f0c175b)**	
 **[CocoaPods的安装使用和常见问题](http://www.jianshu.com/p/6e5c0f78200a)**
