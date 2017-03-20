@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "MMNumberScrollView is used to show number increasing animation with customized number images and scrolling speed. "
 
   s.description  = <<-DESC
-		Number,ScrollView,Number ScrollView
+		MMNumberScrollView is used to show number increasing animation with customized number images, dynamic frame size and scrolling speed. 
                    DESC
   s.homepage     = "https://github.com/michaelin1208/MMNumberScrollView"
   s.license      = { :type => "MIT", :file => "LICENSE" }
