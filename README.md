@@ -2,6 +2,12 @@
 In last project, I develop a number scroll view to show number increasing animations. Now I try to pick it out to share in my GitHub
  **[MMNumberScrollView](https://github.com/michaelin1208/MMNumberScrollView)**	
 
+Add MMNumberScrollView in your Podfile.
+```
+use_frameworks!
+pod 'MMNumberScrollView'
+```
+
 In this view, you can customize the number images array, the scrolling speed and the frame size of this view whether it is dynamically resizing during number increasing. 
 
 In the next update, I might update the view to support number decreasing animation.  
