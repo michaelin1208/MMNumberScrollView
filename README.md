@@ -2,6 +2,9 @@
 In last project, I develop a number scroll view to show number increasing animations. Now I try to pick it out to share in my GitHub
  **[MMNumberScrollView](https://github.com/michaelin1208/MMNumberScrollView)**	
 
+### Demo Snapshot
+![DemoSnapshot](https://raw.githubusercontent.com/michaelin1208/MMNumberScrollView/master/DemoSnapshot.PNG)
+
 ## Cocoapods
 
 Install Cocoapods if need be.
