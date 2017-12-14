@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MMNumberScrollView"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "MMNumberScrollView is used to show number increasing animation with customized number images and scrolling speed. "
 
   s.description  = <<-DESC
