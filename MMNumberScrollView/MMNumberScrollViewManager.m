@@ -81,7 +81,7 @@
     // init the single number scroll views
     MMSingleNumberScrollView *tempSingleNumberScrollView;
     for (int i = 0; i < length; i++) {
-        tempSingleNumberScrollView = [[MMSingleNumberScrollView alloc]initWithFrame:CGRectMake((length - i) * singleNumberScrollViewWidth, 0, singleNumberScrollViewWidth, singleNumberScrollViewHeight) imageArray:_numImageArray duration:_speedDuration index:i];
+        tempSingleNumberScrollView = [[MMSingleNumberScrollView alloc]initWithFrame:CGRectMake((length - i - 1) * singleNumberScrollViewWidth, 0, singleNumberScrollViewWidth, singleNumberScrollViewHeight) imageArray:_numImageArray duration:_speedDuration index:i];
         tempSingleNumberScrollView.delegate = self;
         [self addSubview:tempSingleNumberScrollView];
         [_singleNumberScrollViews addObject:tempSingleNumberScrollView];
