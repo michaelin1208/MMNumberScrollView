@@ -8,6 +8,7 @@
 
 //#define kNumberCount 10
 //#define kDuration 0.2
+//xcode github test
 
 #import "MMSingleNumberScrollView.h"
 
@@ -28,7 +29,7 @@
     
     int currentPage;                    //the current page index of indext, it is as same as the number displayed.
     int increaseCount;                  //the count to record how many times the number have to increase.
-    NSTimeInterval speedDuration;       //roll speed, the duration of each increasing scrolling
+    NSTimeInterval speedDuration;       //roll speed, the duration of each increasing scrolling  
 
 }
 
